@@ -1,5 +1,6 @@
 # Data-Anlaysis-using-Excel---Real-time-Swiggy-Data
 Analyzing Real time food ordering data using Excel!
+Interesting insights into customer preferences and behaviors in the food industry through swiggy data all over india.
 
 **# Dataset and it's Fields**
 
