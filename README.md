@@ -8,9 +8,11 @@ Analyzing Real time food ordering data using Excel!
 
 **#Insights On overall dataset**
 
-![insights](https://github.com/deva-246/Data-Anlaysis-using-Excel---Real-time-Swiggy-Data/assets/75877347/b51bc1b9-3195-4db2-af77-dd089dbfcaf3)
-
 ![image](https://github.com/deva-246/Data-Anlaysis-using-Excel---Real-time-Swiggy-Data/assets/75877347/7d242fd0-4d66-4008-801d-b25487a899f2)
+
+
+
+![insights](https://github.com/deva-246/Data-Anlaysis-using-Excel---Real-time-Swiggy-Data/assets/75877347/b51bc1b9-3195-4db2-af77-dd089dbfcaf3)
 
 
 
