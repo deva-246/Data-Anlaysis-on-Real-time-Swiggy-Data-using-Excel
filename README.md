@@ -15,7 +15,7 @@ Interesting insights into customer preferences and behaviors in the food industr
 
 
 
-
+## Data Analysis results
 **# Dataset and it's Fields**
 
 ![dataset](https://github.com/deva-246/Data-Anlaysis-using-Excel---Real-time-Swiggy-Data/assets/75877347/5cc2bbfd-acc7-4d33-9d44-8b5034e34179)
@@ -46,6 +46,7 @@ Interesting insights into customer preferences and behaviors in the food industr
 ![Revenue vs Orderdate](https://github.com/deva-246/Data-Anlaysis-using-Excel---Real-time-Swiggy-Data/assets/75877347/02fd77e6-21cf-4793-8faf-c4a757eb0297)
 
 
+## Data Visualization
 **Overall Data Visualization**
 
 ![Data visualization](https://github.com/deva-246/Data-Anlaysis-using-Excel---Real-time-Swiggy-Data/assets/75877347/1326af6c-1310-407f-b183-2555ea0e9ae1)
