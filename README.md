@@ -5,10 +5,15 @@ Interesting insights into customer preferences and behaviors in the food industr
 ## Data Exploration
 The swiggy dataset of august 2021 contains the below mentioned fields :
     1. Order date
+    
     2. City
+    
     3. user id
+    
     4. name of the Item
+    
     5. Category of the food
+    
     6. Day of the week
     
 **Total number of orders** 
