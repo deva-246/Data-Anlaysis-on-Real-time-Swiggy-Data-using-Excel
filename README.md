@@ -11,19 +11,19 @@ The swiggy dataset of august 2021 contains the below mentioned fields :
     5. Category of the food
     6. Day of the week
     
-# Total number of orders 
+**Total number of orders** 
   1878 
-# Number of Unique Item Purchased
-  The total count is **46**.
-# Most Purchased food item all over india
+**Number of Unique Item Purchased**
+  The total count is 46.
+**Most Purchased food item all over india**
   Chill gobi 65 - 124 times
-# Most ordered Food category
+**Most ordered Food category**
   Rice and Noodles - 460 times
-# user id who placed the maximum number of orders
+**user id who placed the maximum number of orders**
   5043 - 63 orders
-# City which has the highest record of order count
+**City which has the highest record of order count**
   Indore - 387
-# Most active order day
+**Most active order day**
   Monday - 457 Orders 
 
 
