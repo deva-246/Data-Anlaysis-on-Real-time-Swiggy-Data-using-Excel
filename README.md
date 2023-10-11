@@ -3,16 +3,28 @@ Analyzing Real time food ordering data using Excel!
 Interesting insights into customer preferences and behaviors in the food industry through swiggy data all over india.
 
 ## Data Exploration
-
-
-
-
-
-
-
-
-
-
+The swiggy dataset of august 2021 contains the below mentioned fields :
+    1. Order date
+    2. City
+    3. user id
+    4. name of the Item
+    5. Category of the food
+    6. Day of the week
+    
+# Total number of orders 
+  1878 
+# Number of Unique Item Purchased
+  The total count is **46**.
+# Most Purchased food item all over india
+  Chill gobi 65 - 124 times
+# Most ordered Food category
+  Rice and Noodles - 460 times
+# user id who placed the maximum number of orders
+  5043 - 63 orders
+# City which has the highest record of order count
+  Indore - 387
+# Most active order day
+  Monday - 457 Orders 
 
 
 ## Data Analysis results
